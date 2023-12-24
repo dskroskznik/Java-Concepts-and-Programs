@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+
+# NetBeans files
+nbproject/
+dist/
+nbdist/
