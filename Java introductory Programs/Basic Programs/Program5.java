@@ -1,10 +1,5 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Sept.15-
-
-// import java.util.***;
-// *** - (wildcard) import all classes from util package
-import java.util.Scanner; //Scanner class object scanning
-import java.util.Random; //Random class object randomizing
+import java.util.Scanner;
+import java.util.Random;
 
 public class Program5 {
      public static void main(String[] args) {

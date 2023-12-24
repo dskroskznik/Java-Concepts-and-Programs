@@ -1,6 +1,3 @@
-
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.1
 /**************************************************************
 * In this program, you while input a group of integer numbers *
 * followed by a limit margin, it will display an output       *

@@ -1,6 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Oct.29
-
 import java.util.Scanner;
 
 public class Program13

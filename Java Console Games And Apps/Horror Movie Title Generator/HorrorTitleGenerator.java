@@ -1,10 +1,10 @@
-/* Dylan Skroskznik - #U57843452
-   COP2510.004 - Oct.5 -
-   This program prompts the user with a game of inputs
-   to generate a custom horror media title using
-   the users birth month, first initial of first name
-   and last initial of last name. */
-   
+/*********************************************************
+ *  This program prompts the user with a game of inputs  *
+ *  to generate a custom horror media title using        *
+ *  the users birth month, first initial of first name   *
+ *  and last initial of last name.                       *
+ *********************************************************/      
+
 import java.util.Scanner; 
 
 public class HorrorTitleGenerator  

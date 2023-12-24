@@ -1,5 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.1
 /*****************************************************************
 * In this program, there will be a responce from a magic 8 ball  *
 * which will determine your options for your future, and allows  *

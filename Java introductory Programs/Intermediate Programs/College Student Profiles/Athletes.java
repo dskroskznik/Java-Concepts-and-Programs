@@ -1,4 +1,3 @@
-//Another child class - athletes
 public class Athletes extends Human
 {
    private double height;

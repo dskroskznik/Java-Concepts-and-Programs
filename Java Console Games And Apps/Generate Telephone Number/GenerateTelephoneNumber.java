@@ -1,7 +1,7 @@
-/* Dylan Skroskznik - #U57843452
-   COP2510.004 - Sept.29 -
-   This program will demonstrate random number generation through
-   outputting a random modern line made-up phone number */
+/********************************************************************
+ *  This program demonstrates random number generation through      *
+ *  outputting a random modern line made-up phone number            *
+*********************************************************************/    
 
 import java.util.Random; 
 

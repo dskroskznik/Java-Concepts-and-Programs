@@ -1,5 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.16
 /******************************************************
  * This class represents a parking meter 'object' and *
  * contains methods and data collected pertaining to  *

@@ -1,7 +1,7 @@
-/* Dylan Skroskznik - #U57843452
-   COP2510.004 - Sept.15-
-   This program works to read integers between  0 and 1000 and
-   adds the integers of each digit into its own sum */
+/***************************************************************
+ * This program works to read integers between 0 and 1000 and  *
+   adds the integers of each digit into its own sum            *
+ ***************************************************************/
    
 import java.util.Scanner; //Utilize a Scanner for user input
 

@@ -1,5 +1,3 @@
-//Derived class or "child class"
-//extends - to establish inheritance
 public class GradStudent extends Human
 {
   //private members

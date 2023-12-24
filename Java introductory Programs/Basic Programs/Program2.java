@@ -1,7 +1,3 @@
-/* Dylan Skroskznik
-   Sept3-8
-   COP2510 */
-
 import java.util.Scanner; //import this class for input
 
 public class Program2 {

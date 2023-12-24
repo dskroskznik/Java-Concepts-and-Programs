@@ -1,5 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.16
 /*************************************************************
  * This class represents a police officer 'object' with      *
  * data pertaining to their name and badge ID number,        *

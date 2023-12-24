@@ -1,5 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.13
 public class CollegeStudent {
    private int studentNumber;
    private double gpa;

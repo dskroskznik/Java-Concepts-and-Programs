@@ -1,10 +1,8 @@
-/* Dylan Skroskznik - COP2510.004
-   #U57843452
-   This program will demonstrate madlib game. */
+/**************************************************************
+ * This program will demonstrate a basic madlib game          *                             
+ **************************************************************/
 
- //First create class to name program and attach a static void
-
-import java.util.Scanner; //import of scanner for user input
+import java.util.Scanner; 
 
 public class MadLib  
 {

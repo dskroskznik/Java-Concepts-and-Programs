@@ -1,7 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Oct.22
-
-
 import javax.swing.JOptionPane; //class for Dialog Boxes
 import java.text.NumberFormat;
 import java.util.Locale;

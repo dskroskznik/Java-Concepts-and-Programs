@@ -1,7 +1,3 @@
-/* Dylan Skroskznik
-   Sept10
-   COP2510 */
-
 import java.util.Scanner;
 
 public class Program4 {

@@ -1,8 +1,4 @@
-
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Oct.27
-/***************************************************************
- *  * LAB EXAM - 2 *                                           *
+/***************************************************************                                         
  * This program will demonstrate a currency conversion         *  
  * process through user inputs and outputs using display menus *
  **************************************************************/

@@ -1,7 +1,7 @@
-/* Dylan Skroskznik - #U57843452
-   COP2510.004 - Sept.29 -
-   This program will interpolate Cramer's rule for solving a
-   double system of linear equation. */
+/************************************************************
+ *  This program will interpolate Cramer's rule             *
+ *  for solving a double system of linear equation.         *
+*************************************************************/
 
 import java.util.Scanner; 
 

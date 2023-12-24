@@ -1,5 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.1
 /**********************************************************
 * In this program, the user will be asked a number larger *
 * than two for the program to generate a multiplication   *

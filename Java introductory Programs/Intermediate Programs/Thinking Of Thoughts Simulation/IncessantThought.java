@@ -1,8 +1,3 @@
-//Dylan Skroskznik - #U57843452
-// COP2510.004 - Dec.1
-
-//child class
-
 public class IncessantThought extends Thought
 {
    @Override //optional tag, to verify same method signatures

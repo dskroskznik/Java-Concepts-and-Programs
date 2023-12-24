@@ -1,9 +1,8 @@
-/* Dylan Skroskznik - #U57843452
-   COP2510.004 - Sept.15-
-   This program works to formulate an NFL Passer Rating 
-   value ranging from 0 to 158.3 calculated from a formula */
-
-import java.util.Scanner; //Utilize a Scanner for user input
+/************************************************************
+ * This program works to formulate an NFL Passer Rating     *
+ * value ranging from 0 to 158.3 calculated from a formula  *
+ ************************************************************/
+import java.util.Scanner; 
    
 public class nflPasserRating 
 {

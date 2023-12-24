@@ -1,5 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.16
 /***********************************************************************
  * This complete program will simulate the scenario for a parked car   *
  * getting filed for a parking ticket when parking meter time expire   *

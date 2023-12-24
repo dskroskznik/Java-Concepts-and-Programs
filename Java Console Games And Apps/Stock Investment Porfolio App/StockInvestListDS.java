@@ -1,8 +1,4 @@
-
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.24
 /*****************************************************************
- *   * LAB EXAM - 3 *                                            *
  * This program will gather and share selected information on    *
  * healthcare stocks from which decided on investmenting in.     *    
  *****************************************************************/

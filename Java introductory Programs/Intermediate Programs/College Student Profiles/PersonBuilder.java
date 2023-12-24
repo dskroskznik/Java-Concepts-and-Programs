@@ -1,6 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.17
-
 public class PersonBuilder
 {
    public static void main (String [] args)

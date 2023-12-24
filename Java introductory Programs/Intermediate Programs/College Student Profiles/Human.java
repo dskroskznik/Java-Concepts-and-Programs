@@ -1,4 +1,3 @@
-//Inheritance class exercise - parent class
 public class Human
 {
    protected String name;

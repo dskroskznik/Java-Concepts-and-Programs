@@ -1,5 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.3
 import java.text.NumberFormat;
 
 public class BankAccount

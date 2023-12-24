@@ -1,8 +1,7 @@
-/* Dylan Skroskznik - COP2510.004
-   #U57843452
-   This program will demonstrate calculations in stock transactions through java code. */
-
-//First create class to name program and attach a static void
+/****************************************************
+ * This program will demonstrate calculations       *
+ * in stock transactions through java code.         *   
+ ****************************************************/
 
 import java.text.DecimalFormat; //import of decimal format to simplify outputs
 

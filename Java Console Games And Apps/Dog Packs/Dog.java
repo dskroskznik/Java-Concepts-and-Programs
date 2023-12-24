@@ -1,5 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.3
 /*******************************************************************
  * This program construct a class build for a object of type       *
  * Dog to setup easy method builders to help classify a Dog's      *

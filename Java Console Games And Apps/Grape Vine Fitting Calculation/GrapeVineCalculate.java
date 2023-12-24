@@ -1,9 +1,7 @@
-/* Dylan Skroskznik - COP2510.004
-   #U57843452
-   This program will demonstrate use of calculations of grapevines with user input. */
-
-//First create class to name program and attach a static void
-//import of scanner for user input
+/*********************************************************   
+ * This program will demonstrate use of calculations     *
+ * of grapevines with user input.                        *
+ *********************************************************/
 import java.util.Scanner; 
 
 public class GrapeVineCalculate

@@ -1,14 +1,3 @@
-/*Dylan Skroskznik
-  Aug24-Sept1
-  COP2510 */
-
-//This is a single line comment. I can write anything here.
-//I want to write another comment
-
-/* THIS IS
-   A MULTI
-   LINE
-   COMMENT */
 import java.util.Random;  
    
 public class Program1

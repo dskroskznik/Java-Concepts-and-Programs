@@ -1,6 +1,3 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Nov.3
-
 import java.util.*;
 
 public class Program14 {
