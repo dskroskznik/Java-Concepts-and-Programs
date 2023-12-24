@@ -1,8 +1,8 @@
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Oct.20
-// This program is designed to apply the active 
-// members points in a basketball team during 
-// a game with a bar chart.
+/********************************************************/
+/*    This program is designed to apply the active      *
+/*    members points in a basketball team during        *
+/*    a game with a bar chart.                          *
+/********************************************************/
 
 import java.util.Scanner;
 
