@@ -1,15 +1,10 @@
-
-// Dylan Skroskznik - #U57843452
-// COP2510.004 - Sept.22 - Lab Exam#1
 /*****************************************************************
- *   * LAB EXAM - 1 *                                            *
  * This program is designed to calculate the circumference and   *
  * area of a given circle, * and calculate inscribed shapes side *
  * lengths, perimeters, and areas, within the circle             *
  *****************************************************************/
-
-import java.util.Scanner; //Utilize a Scanner for user input
-import java.text.DecimalFormat; //Establish set decimal place formatting
+import java.util.Scanner;
+import java.text.DecimalFormat; 
 
 public class AreaCircumferenceCalculator 
 {
